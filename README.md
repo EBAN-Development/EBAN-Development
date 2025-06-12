@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge)
+![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)
+![HackerRank Badge](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=for-the-badge)
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=for-the-badge)
+![Codewars Badge](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff&style=for-the-badge)
+![Exercism Badge](https://img.shields.io/badge/Exercism-009CAB?logo=exercism&logoColor=fff&style=for-the-badge)
+![Linktree Badge](https://img.shields.io/badge/Linktree-43E55E?logo=linktree&logoColor=000&style=for-the-badge)
+![Game Developer Badge](https://img.shields.io/badge/Game%20Developer-E60012?logo=gamedeveloper&logoColor=fff&style=for-the-badge)
+
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
