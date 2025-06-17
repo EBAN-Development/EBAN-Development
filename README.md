@@ -8,7 +8,7 @@
 ![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=for-the-badge)
 ![Codewars Badge](https://img.shields.io/badge/Codewars-ff5000?logo=codewars&logoColor=fff&style=for-the-badge)
 ![YouTube Badge](https://img.shields.io/badge/YouTube-ea323c?logo=youtube&logoColor=fff&style=for-the-badge)
-![Game Developer Badge](https://img.shields.io/badge/Game%20Developer-ff0077?style=for-the-badge)
+![Game Developer Badge](https://img.shields.io/badge/Game%20Dev-ff0077?style=for-the-badge)
 <!-- ![Linktree Badge](https://img.shields.io/badge/Linktree-43E55E?logo=linktree&logoColor=000&style=for-the-badge) -->
 
 <div align="center">
