@@ -11,6 +11,21 @@
 ![YouTube Badge](https://img.shields.io/badge/YouTube-ea323c?logo=youtube&logoColor=fff&style=for-the-badge)
 <!-- ![Game Dev](https://img.shields.io/badge/Game%20Dev-ff0077?style=for-the-badge) -->
 
+> [!IMPORTANT]
+> Não existe talento, existe prática e experiência. Na tecnologia onde tudo muda constantemente continuar exercitando o conhecimento e aprendendo coisas novas é fundamental. Comece pelas plataformas acima, todas disponíveis gratuitamente para aperfeiçoar nossas skills através de desafios de código em diversas linguagens.
+
+> [!NOTE]
+> Somos um grupo de profissionais de TI que acredita seriamente no Life Long Learning. Após atuarmos como voluntários para uma plataforma de tecnologia por alguns anos, resolvemos ampliar nossa atuação dando apoio aos estudantes nos estudos de todas elas e não apenas uma plataforma!
+
+> [!TIP]
+> Temos muitas ideias para dominar o mundo e tornar o mesmo um lugar melhor. Todos são bem-vindos!
+
+> [!WARNING]
+> Esse é um projeto novo ainda no início. A ideia é ajudar no aprendizado de estudantes de programação independente da stack escolhida. Quer colaborar? Entre no nosso discord acima, colabore com os nossos projetos ou abra uma issue no repositório desejado com suas sugestões!
+
+> [!CAUTION]
+> Programar é a escolha de quem não para! Conforme a tecnologia avança nós avançaremos junto, aprendendo e nos desenvolvendo mais a cada dia. Se você também ama tecnologia e tem consciência de que o estudo não vai acabar, estamos felizes com a sua chegada! 
+
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img  height="137px" align="center" src="https://github-readme-stats.vercel.app/api?username=EBAN-Development&hide_border=true&show_icons=true&count_private=true&line_height=21&bg_color=15,00396d,0098dc,5ac54f,ffc825&theme=ambient_gradient&rank_icon=github" />
@@ -22,14 +37,14 @@
   <br />  
 </div>
   
-# SOCIAL  
+<!-- # It's dangerous to go alone! 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=github,linkedin,youtube,hackerrank,leetcode,reddit,itchio"
     />
   </a>
-</p>
+</p> -->
 
 
 <!--
