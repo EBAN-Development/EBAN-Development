@@ -2,14 +2,14 @@
   <img src="./img/EBAN_content.png">
 </p>
 
+![Beecrowd Badge](https://img.shields.io/badge/beecrowd-7a09fa?style=for-the-badge)
 ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)
 ![Exercism Badge](https://img.shields.io/badge/Exercism-009CAB?logo=exercism&logoColor=fff&style=for-the-badge)
 ![HackerRank Badge](https://img.shields.io/badge/HackerRank-5ac54f?logo=hackerrank&logoColor=000&style=for-the-badge)
 ![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=for-the-badge)
 ![Codewars Badge](https://img.shields.io/badge/Codewars-ff5000?logo=codewars&logoColor=fff&style=for-the-badge)
 ![YouTube Badge](https://img.shields.io/badge/YouTube-ea323c?logo=youtube&logoColor=fff&style=for-the-badge)
-![Game Developer Badge](https://img.shields.io/badge/Game%20Dev-ff0077?style=for-the-badge)
-<!-- ![Linktree Badge](https://img.shields.io/badge/Linktree-43E55E?logo=linktree&logoColor=000&style=for-the-badge) -->
+<!-- ![Game Dev](https://img.shields.io/badge/Game%20Dev-ff0077?style=for-the-badge) -->
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
