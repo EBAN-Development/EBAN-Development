@@ -2,13 +2,13 @@
   <img src="./img/EBAN_content.png">
 </p>
 
-![Beecrowd Badge](https://img.shields.io/badge/beecrowd-7a09fa?style=for-the-badge)
-![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)
-![Exercism Badge](https://img.shields.io/badge/Exercism-009CAB?logo=exercism&logoColor=fff&style=for-the-badge)
-![HackerRank Badge](https://img.shields.io/badge/HackerRank-5ac54f?logo=hackerrank&logoColor=000&style=for-the-badge)
-![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=for-the-badge)
-![Codewars Badge](https://img.shields.io/badge/Codewars-ff5000?logo=codewars&logoColor=fff&style=for-the-badge)
-![YouTube Badge](https://img.shields.io/badge/YouTube-ea323c?logo=youtube&logoColor=fff&style=for-the-badge)
+[![Beecrowd Badge](https://img.shields.io/badge/beecrowd-7a09fa?style=for-the-badge)](https://judge.beecrowd.com/en)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)](https://discord.com/invite/3cp9c9bF8B)
+[![Exercism Badge](https://img.shields.io/badge/Exercism-009CAB?logo=exercism&logoColor=fff&style=for-the-badge)](https://exercism.org)
+[![HackerRank Badge](https://img.shields.io/badge/HackerRank-5ac54f?logo=hackerrank&logoColor=000&style=for-the-badge)](https://www.hackerrank.com)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=for-the-badge)](https://leetcode.com)
+[![Codewars Badge](https://img.shields.io/badge/Codewars-ff5000?logo=codewars&logoColor=fff&style=for-the-badge)](https://www.codewars.com)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-ea323c?logo=youtube&logoColor=fff&style=for-the-badge)](https://www.youtube.com/channel/UCP668chMuyRrmvdCaLnd02Q?sub_confirmation=1)
 <!-- ![Game Dev](https://img.shields.io/badge/Game%20Dev-ff0077?style=for-the-badge) -->
 
 > [!IMPORTANT]
@@ -18,7 +18,7 @@
 > Somos um grupo de profissionais de TI que acredita seriamente no Life Long Learning. Após atuarmos como voluntários para uma plataforma de tecnologia por alguns anos, resolvemos ampliar nossa atuação dando apoio aos estudantes nos estudos de todas elas e não apenas uma plataforma!
 
 > [!TIP]
-> Temos muitas ideias para dominar o mundo e tornar o mesmo um lugar melhor. Todos são bem-vindos!
+> Nenhum desenvolvedor tem uma enciclopédia com tudo decorado na cabeça. Pesquisar é ok. Mas entenda e aprenda o que está fazendo, pois se estiver dependente de IA em TUDO, não existirá ninguém pra depender de você.
 
 > [!WARNING]
 > Esse é um projeto novo ainda no início. A ideia é ajudar no aprendizado de estudantes de programação independente da stack escolhida. Quer colaborar? Entre no nosso discord acima, colabore com os nossos projetos ou abra uma issue no repositório desejado com suas sugestões!
